@@ -1,3 +1,5 @@
+**Note:** Not maintained
+
 # deep-key-filter
 ## Install
 ```sh
